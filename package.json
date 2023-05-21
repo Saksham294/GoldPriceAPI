@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Saksham294/GoldPriceAPI#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
     "express": "^4.18.2",
     "mongoose": "^7.2.0"
   }
